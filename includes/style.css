@@ -1,0 +1,195 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+header{
+	
+	width: 100%;
+	background-color:#1b1e26;
+}
+header,
+footer,
+aside,
+section,
+main,
+article{
+	display:block;
+	font-family:;	
+}
+a{
+	text-decoration:none;
+	
+}
+
+.firstName{ 
+	display:inline;
+	color:#8e959c;
+	font-family: 'Text My One',sans-serif;
+	font-size: 42px;
+	margin-left:10px;
+}
+
+.lastName{
+	color:#8e959c;
+	font-size: 25px;
+	font-family: 'Comic Sans Ms';
+	
+}
+#logo{
+	display:inline;
+	
+	background-color:#1b1e26; 
+}
+	
+
+.icon{
+	margin-left: 70px;
+	margin-top: 15px;
+}
+nav{
+	height:40px;
+	padding-left:70px;
+}
+
+.subtitle{
+	
+	margin-left:70px;
+	
+}
+
+.mainDiv{
+	
+width:351px;
+height:282px;
+margin-left:70px;	
+border:1px solid #8e959c;
+border-radius:10px;
+margin-top: 25px;
+
+	
+}
+#meanStack{
+	margin-left:10px;
+	
+}
+
+.myGitHub{
+	margin-left: 70px;
+	font-size: 30px;
+	
+}
+nav a{
+	  margin-left: 70px;
+	   font-size: 30px;
+		color: #8e959c;
+		margin-right: 70px;
+}
+
+.section1{
+	
+	 height: 427px;
+}
+.section2{
+	color: #8e959c;
+
+}
+.article1{
+	color=#454e5c;
+	margin-left: 50px;
+	margin-top: -55px;
+	padding-left: 30px;
+}
+
+.article2{
+	margin-top: 10px;
+	color: #a0a5ab
+}
+section h2{
+	margin-left: 70px;
+	margin-top: 27px;
+}
+
+.mainDiv img{
+ 
+ margin-top: 16px;
+ margin-left: 16px;	
+	
+}
+
+
+.imgMe{
+	
+	margin-top: 13px;
+	margin-left: 14px;
+
+}
+.cerImg{
+	
+	    margin-left:80px;
+	    height:70px;
+		width:70px;
+		float:left;
+	
+	
+}
+.image2{
+	
+	    margin-left: 10px;
+	    margin-top: 110px;
+		height:50px;
+		width:50px;
+		float:left;
+	
+	
+}
+
+.secTxt1 {
+	     
+	    margin-top:100px;
+	    color:#b0b5ba;
+	    margin-left: 170px;
+	
+}
+
+.article3{
+	
+	margin-top: 10px;
+	margin-left: 170px;
+	color:#ffff;
+}
+
+.section3{
+	margin-top:40px;
+	height: 288px;
+	background-color: #1B1E26;
+}
+.mySkills{
+	padding-top:38px;
+	margin-top:38px;
+	margin-left:70px;
+	color: white;
+	margin-bottom: 14px;
+}
+h4{ 
+	color:#8E959C;
+	margin-left: 70px;
+	
+}
+
+footer{
+	
+	height:92px;
+	margin-top: 24px;
+}
+
+footer a{ 
+	
+	margin-top:24px;
+     margin-left: 70px;
+	   font-size: 30px;
+		color: #8e959c;
+		
+}
+	
+}
