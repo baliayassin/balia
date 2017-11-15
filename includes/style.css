@@ -144,9 +144,18 @@ section h2{
 	
 }
 
+.Kav {
+    margin-left: 70px;
+    width:100%;
+    margin-top: 75px;
+    height: 2px;
+    background: #e0e4e7;
+    margin-right: 70px;
+}
+
 .secTxt1 {
 	     
-	    margin-top:100px;
+	    margin-top:35px;
 	    color:#b0b5ba;
 	    margin-left: 170px;
 	
